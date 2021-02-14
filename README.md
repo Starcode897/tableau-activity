@@ -8,4 +8,6 @@ https://public.tableau.com/profile/tyler1702#!/vizhome/tableau-challengeCitiBike
 
 Examining the Citi Bike data for 2015 uncovered a few curious trends. The most interesting will be displayed below.
 
+![GitHub Logo](/Images/trips.png)
+
 
